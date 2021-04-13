@@ -70,3 +70,18 @@ h3{
   opacity: 0.6;
   padding: 1px;
 }
+
+ul{
+ display:table;
+ margin:auto;
+}
+ul li{
+ display:table-cell;
+ width:20%;
+ text-align:center;
+}
+
+a {
+  color: #ecf0f1;
+}
+
